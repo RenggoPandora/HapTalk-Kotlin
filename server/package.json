@@ -1,0 +1,21 @@
+{
+  "name": "haptalk-server",
+  "version": "1.0.0",
+  "description": "Lightweight WebSocket server for HapTalk - Low-bandwidth realtime chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "websocket",
+    "chat",
+    "realtime"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
+
