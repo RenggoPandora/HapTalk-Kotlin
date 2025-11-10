@@ -10,6 +10,7 @@
     "restartPolicyMaxRetries": 10
   }
 }
+}
   "build": {
     "builder": "NIXPACKS",
     "buildCommand": "cd server && npm install"
